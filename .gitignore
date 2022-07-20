@@ -13,6 +13,7 @@
 .idea/**/shelf
 
 .idea/
+src/main/java/com/database/privateData/Directory.java
 # AWS User-specific
 .idea/**/aws.xml
 
